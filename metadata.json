@@ -1,0 +1,5 @@
+{
+  "name": "Urban Bites",
+  "description": "A modern casual restaurant QR ordering system with offline-first architecture.",
+  "requestFramePermissions": []
+}
